@@ -8,7 +8,7 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 1.
 2.
 3.
-4. Spicy toppings, chicken
+4. 
 5.
 6.
 7.
