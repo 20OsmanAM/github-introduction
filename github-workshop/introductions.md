@@ -5,6 +5,12 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
+1. Chicken
+2. Pineapple
+3. Spicy chicken
+4. Pepperoni
+5. Kiwi
+6. Sushi
 1. Pepperoni
 2. hot honey 
 3.bbq sauce
