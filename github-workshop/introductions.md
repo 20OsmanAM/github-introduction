@@ -5,12 +5,13 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1.Black olives
+1. Black olives
 
-2.Sweetcorn
-3.jalapenos
-4.
-5.
+2. Sweetcorn
+
+3. jalapenos
+
+5. 
 6.
 7.
 8.
@@ -46,3 +47,5 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 38.
 39.
 40.
+41.
+42.
